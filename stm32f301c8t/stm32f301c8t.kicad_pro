@@ -333,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "qfp64-breakout-board.kicad_pro",
+    "filename": "stm32f301c8t.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -394,15 +394,6 @@
       "version": 1
     },
     "net_format_name": "",
-    "ngspice": {
-      "fix_include_paths": true,
-      "fix_passive_vals": false,
-      "meta": {
-        "version": 0
-      },
-      "model_mode": 0,
-      "workbook_filename": ""
-    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
@@ -412,7 +403,7 @@
   },
   "sheets": [
     [
-      "2205bf3c-3a08-4b38-8464-7147fd20814e",
+      "65fd53a5-e284-44bb-9df6-f07675a1c2af",
       ""
     ]
   ],

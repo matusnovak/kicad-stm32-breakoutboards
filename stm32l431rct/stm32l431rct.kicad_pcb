@@ -367,7 +367,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d308e9a5-e6de-49d7-b9a6-6266e4af89c9)
     )
-    (fp_text value "STM32L431RCTx" (at 9.878282 10.094077 270 unlocked) (layer "F.Fab")
+    (fp_text value "STM32L431RCTx" (at 9.878282 10.094077 270 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 006b50d5-fbd7-47aa-be9b-ad6cd8d241ba)
     )
